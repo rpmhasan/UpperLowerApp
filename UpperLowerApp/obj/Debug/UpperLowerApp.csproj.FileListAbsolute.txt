@@ -1,0 +1,5 @@
+E:\Rupam's Works\18.04\homeWork\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe.config
+E:\Rupam's Works\18.04\homeWork\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe
+E:\Rupam's Works\18.04\homeWork\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.pdb
+E:\Rupam's Works\18.04\homeWork\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.exe
+E:\Rupam's Works\18.04\homeWork\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.pdb
